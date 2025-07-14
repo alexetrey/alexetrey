@@ -7,56 +7,65 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=alexetrey&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/alexetrey?style=social)
 
-
 ---
 
 ## 🧠 About Me
 
-I'm a passionate Minecraft developer with 4+ years of experience creating custom plugins, GUIs, and tools for Minecraft servers. I specialize in building **Java and Skript-based systems**, focusing on functionality, performance, and user experience.
+I'm a passionate Minecraft developer with **4+ years of experience** building plugins, server systems, and utility tools for a wide range of servers. I specialize in **Java 21**, **Gradle**, **Skript**, and **modern Minecraft server architecture** (1.20+).
 
-Whether you're building a PvP server, staff moderation system, or feature-rich community platform, I can help bring your ideas to life.
+I build professional-grade tools including:
+- GUI-based systems (reports, duels, inventory editors)
+- Discord-integrated moderation tools
+- Economy, region, and cross-server sync systems using Redis, MongoDB, and MySQL
+
+Whether you're building an SMP, PvP, or a professional network—I'll bring your server's ideas to life.
 
 ---
 
 ## 🛠 Skills & Tools
 
-- 🧩 Java | Skript | YAML | JSON
-- 🛠 Spigot | Paper | Bukkit | Velocity
-- 🧠 IntelliJ IDEA | Git | Maven | Gradle
-- 📱 Discord Integration | GUI Menus | Server APIs
+- 📦 **Languages**: Java (21), Skript, YAML, JSON
+- 🧩 **Frameworks**: Spigot, Paper, Bukkit, Velocity
+- ⚙️ **Dev Tools**: Gradle, Maven, IntelliJ, Git
+- 🔗 **Integrations**: Discord Bots, Webhooks, GUI Systems
+- 🧠 **Advanced**: MongoDB, Redis, gRPC, MySQL
 
 ---
 
-## 🌟 Notable Projects
+## 🚀 Featured Projects
 
 ### 🔹 [DuelSystem](https://github.com/alexetrey/Duelssystem)
-⚔️ Custom duel plugin with arena configuration, inventory saving, and GUI-based control.
+⚔️ **Custom duel plugin** with full arena control, GUI menus, and inventory save/restore.
 
 ### 🔹 [ChatColor Skript](https://github.com/alexetrey/ChatColorSkript)
-🎨 Simple Skript-based plugin to allow players to change their chat color with a GUI.
+🎨 Simple and effective color picker using GUI for players to set chat colors.
 
-### 🔹 StaffMode & Security Tools *(Private Repo)*
-🛡️ Staff vanish, command logging, login alerts, and optional 2FA.
+### 🔹 **Refund Manager** *(Coming Soon)*
+📦 Handles plugin refund codes via GUI and Discord bot with anti-abuse systems and MySQL/YAML support.
 
-### 🔹 Custom Report System *(Coming Soon)*
-📨 GUI-based report menus, Discord webhook alerts, proof fields, and live staff moderation tools.
+### 🔹 **Staff Security Toolkit** *(Private)*
+🛡️ Includes vanish mode, command logger, login alerts, and optional 2FA-style validation.
+
+### 🔹 **Region System** *(WIP)*
+📍 Region claim system with GUI flags, MySQL storage, and whitelist access control.
 
 ---
 
-## 💼 Services I Offer
+## 💼 What I Offer
 
-- Minecraft plugin development (Java + Skript)
-- GUI menus, punishment systems, custom commands
-- Staff toolkits (StaffMode, logs, alerts, etc.)
-- Discord <-> Minecraft integration
-- Optimization and debugging
+- ✅ Custom Minecraft Plugins (Java 21+, Skript)
+- ✅ GUI Menus (Reports, Duels, Inventories, Chat)
+- ✅ Staff Systems (StaffMode, Alerts, 2FA, Logs)
+- ✅ Discord Bot ↔ Minecraft Integration
+- ✅ Full Stack: MongoDB, Redis, MySQL, YAML
+- ✅ Performance Optimizations & Debugging
 
 ---
 
 ## 📫 Contact Me
 
 - 💬 **Discord**: [`alexetrey`](https://discord.gg/CeGSzrRdV7)
-- 🌍 **Website**: [alexetreyportfolio.unaux.com](https://alexetreyportfolio.unaux.com/portfolio)
+- 🌐 **Website**: [alexetreyportfolio.unaux.com](https://alexetreyportfolio.unaux.com/portfolio)
 - 📧 **Email**: alexetrey@gmail.com
 - 🧩 **GitHub**: [@alexetrey](https://github.com/alexetrey)
 
@@ -64,12 +73,15 @@ Whether you're building a PvP server, staff moderation system, or feature-rich c
 
 ## 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexetrey&show_icons=true&theme=react&hide_border=false&count_private=true" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexetrey&layout=compact&theme=react&hide_border=false" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexetrey&show_icons=true&theme=react&hide_border=false&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexetrey&layout=compact&theme=react&hide_border=false" />
+</p>
 
 ---
 
-## 🔓 Open for Freelance / Commission Work!
+## 🔓 Available for Freelance Work
 
-Need a custom plugin? Let’s talk!
+Want a custom plugin that stands out? Let's chat!
+
