@@ -64,7 +64,7 @@ Whether you're building an SMP, PvP, or a professional network—I'll bring your
 
 ## 📫 Contact Me
 
-- 💬 **Discord**: [`alexetrey`](https://discord.gg/CeGSzrRdV7)
+- 💬 **Discord Server**: [`Join Here`](https://discord.gg/JU92xmESGb)
 - 🌐 **Website**: [alexetreyportfolio.unaux.com](https://alexetreyportfolio.unaux.com/portfolio)
 - 📧 **Email**: alexetrey@gmail.com
 - 🧩 **GitHub**: [@alexetrey](https://github.com/alexetrey)
@@ -84,4 +84,3 @@ Whether you're building an SMP, PvP, or a professional network—I'll bring your
 ## 🔓 Available for Freelance Work
 
 Want a custom plugin that stands out? Let's chat!
-
