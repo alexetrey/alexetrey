@@ -7,7 +7,7 @@
 
 # 👋 Hey there! I'm **Alexetrey**
 
-🎮 Full-Stack Minecraft Plugin Developer | Freelancer  
+🎮 Full-Stack Minecraft Developer | Freelancer  
 🧠 Passionate about building powerful, clean, and user-friendly tools for servers of all sizes.  
 
 ---
