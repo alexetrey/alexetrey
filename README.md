@@ -3,8 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=alexetrey&style=flat-square)  
 ![GitHub Followers](https://img.shields.io/github/followers/alexetrey?style=social)
 
-> ### 👋 Hey there! I'm **Alexetrey**
-> 
+ ### 👋 Hey there! I'm **Alexetrey**
 > I'm a Minecraft plugin developer and freelancer with over **4 years of experience**, passionate about building clean, powerful tools for servers of all sizes.  
 > I work mostly with **Java** and **Skript**, and enjoy creating advanced GUI systems, integrations, and server features using modern dev practices.  
 > I'm also familiar with web technologies like **HTML**, **CSS**, and **JavaScript**, and I love learning new tools and improving my workflow.  
