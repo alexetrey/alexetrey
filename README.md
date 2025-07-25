@@ -4,10 +4,8 @@
 ![GitHub Followers](https://img.shields.io/github/followers/alexetrey?style=social)
 
  ### 👋 Hey there! I'm **Alexetrey**
- I'm a Minecraft plugin developer and freelancer with over **4 years of experience**, passionate about building clean, powerful tools for servers of all sizes.  
- I work mostly with **Java** and **Skript**, and enjoy creating advanced GUI systems, integrations, and server features using modern dev practices.  
- I'm also familiar with web technologies like **HTML**, **CSS**, and **JavaScript**, and I love learning new tools and improving my workflow.  
- When I’m not coding, I’m usually exploring new ideas, improving old projects, or helping others bring their server visions to life.
+ I'm a Minecraft Full stack  developer and freelancer with over **4 years of experience**, passionate about building clean, powerful tools for servers of all sizes.  
+ 
 
 ---
 
