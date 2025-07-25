@@ -40,7 +40,7 @@
 
 📬 Email: **alexetreydev@gmail.com**  
 🤝 Available for freelance plugin development  
-🌍 Discord: *Available upon request*
+🌍 Discord: *[Click](https://discord.gg/JU92xmESGb)*
 
 ---
 
